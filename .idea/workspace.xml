@@ -2,8 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="756ddfc6-275c-45e2-b4e3-a92d171a4a56" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/test/adapter/sandbox_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/adapter/sandbox_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/adapter/wrappers_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/adapter/wrappers_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/add_neighbors_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/add_neighbors_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/attach_to_tangle_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/attach_to_tangle_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/broadcast_transactions_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/broadcast_transactions_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/check_consistency_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/check_consistency_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/find_transactions_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/find_transactions_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_balances_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_balances_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_inclusion_states_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_inclusion_states_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_neighbors_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_neighbors_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_node_info_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_node_info_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_tips_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_tips_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_transactions_to_approve_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_transactions_to_approve_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/get_trytes_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/get_trytes_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/interrupt_attaching_to_tangle_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/interrupt_attaching_to_tangle_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/remove_neighbors_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/remove_neighbors_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/store_transactions_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/store_transactions_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/core/were_addresses_spent_from_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/core/were_addresses_spent_from_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/broadcast_and_store_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/broadcast_and_store_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/get_account_data_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/get_account_data_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/get_bundles_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/get_bundles_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/get_inputs_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/get_inputs_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/get_latest_inclusion_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/get_latest_inclusion_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/get_new_addresses_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/get_new_addresses_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/get_transfers_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/get_transfers_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/helpers_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/helpers_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/is_reattachable_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/is_reattachable_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/promote_transaction_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/promote_transaction_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/replay_bundle_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/replay_bundle_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/send_transfer_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/send_transfer_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/commands/extended/send_trytes_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/commands/extended/send_trytes_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +109,26 @@
             <path>
               <item name="iota.lib.py" type="b2602c69:ProjectViewProjectNode" />
               <item name="iota.lib.py" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iota.lib.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iota.lib.py" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iota.lib.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iota.lib.py" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="commands" type="462c0819:PsiDirectoryNode" />
+              <item name="extended" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iota.lib.py" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iota.lib.py" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -145,7 +193,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551833613559</updated>
-      <workItem from="1551833618197" duration="8723000" />
+      <workItem from="1551833618197" duration="10033000" />
     </task>
     <servers />
   </component>
@@ -155,21 +203,21 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8723000" />
+    <option name="totallyTimeSpent" value="10033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26171243" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
       <window_info anchor="bottom" id="Version Control" sideWeight="0.49928468" weight="0.32983682" />
-      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.64943457" weight="0.3298153" />
+      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.6486268" visible="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.4983845" visible="true" weight="0.37335092" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5016155" side_tool="true" visible="true" weight="0.37335092" />
+      <window_info anchor="bottom" id="Terminal" sideWeight="0.4983845" weight="0.37335092" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.3513732" side_tool="true" visible="true" weight="0.3298153" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49919224" weight="0.3298153" />
